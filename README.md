@@ -1,4 +1,4 @@
-# Maps_and_GIS
+# Maps and GIS
 This portfolio showcases the maps and mapping-based projects completed as part of the coursework for the Geographic Information Systems III Certificate at Foothill College, Los Altos Hills, California, 2022–2023. 
 
 ## Maps
