@@ -6,5 +6,5 @@ This portfolio showcases the maps and mapping-based projects completed as part o
 - Elevation and hillshade map of Mount Shasta.
 
 ## Story Maps
-- [Project Unigauge:  Eliminating breaks of gauge across India's railways](https://storymaps.arcgis.com/stories/3ffce9ac5e3f4ef88b8d5248c23bcafe). Story map. Final project for GIST 11: Introduction to Mapping and Spatial Reasoning. **Note**: Needs ArcGIS login. 
+- [Project Unigauge:  Eliminating breaks of gauge across India's railways](https://storymaps.arcgis.com/stories/3ffce9ac5e3f4ef88b8d5248c23bcafe). Story map. Final project for GIST 11: Introduction to Mapping and Spatial Reasoning. **Note**: Requires ArcGIS login. 
 - [High School to Healthcare: A Possible Career Pathway](https://storymaps.arcgis.com/stories/ee16d1b50088460f98356e2417b1df9a). Story Map. Final project for GIST 12: Introduction to Geospatial Technology
