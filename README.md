@@ -2,7 +2,7 @@
 This portfolio showcases the maps and mapping-based projects completed as part of the coursework for the Geographic Information Systems III Certificate at Foothill College, Los Altos Hills, California, 2022–2023. 
 
 ## Maps
-- [Big Bear Maps](https://github.com/morosebose/Maps_and_GIS/blob/main/Big_Bear_Maps.pdf), a series of maps of a study area in Big Bear National Forest, San Bernardino County, California. The last three maps involved spatial analysis using ArcGIS Pro.
+- [Big Bear Maps](https://github.com/morosebose/Maps_and_GIS/blob/main/Big_Bear_Maps.pdf), a series of maps of a study area in Big Bear National Forest, San Bernardino County, California. The last three maps reflect spatial analysis conducted using ArcGIS Pro.
 - [Elevation and hillshade map](https://github.com/morosebose/Maps_and_GIS/blob/main/Shasta.pdf) of Mount Shasta, an active volcano in Siskiyou County, California.
 
 ## Story Maps
