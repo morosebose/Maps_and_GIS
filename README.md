@@ -1,5 +1,5 @@
 # Maps and GIS
-This portfolio showcases the maps and mapping-based projects completed as part of the coursework for the [Geographic Information Systems Technology III Certificate](https://catalog.foothill.edu/degrees-certificates/geographic-information-systems-technology/) of the [Geospatial Technology and Data Science](https://foothill.edu/gis/) program at [Foothill College](https://foothill.edu/), Los Altos Hills, California, 2022–2023. 
+This portfolio showcases the maps and mapping-based projects completed as part of the coursework for the [Geographic Information Systems Technology III Certificate](https://catalog.foothill.edu/degrees-certificates/geographic-information-systems-technology/) of the [Geospatial Technology and Data Science](https://foothill.edu/gis/) program at [Foothill College](https://foothill.edu/), Los Altos Hills, California, during the 2022–2023 academic year. 
 
 ## Maps
 - [Big Bear Maps](https://github.com/morosebose/Maps_and_GIS/blob/main/Big_Bear_Maps.pdf), a series of maps of a study area in Big Bear National Forest, San Bernardino County, California. The last three maps reflect spatial analysis conducted using ArcGIS Pro.
